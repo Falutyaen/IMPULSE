@@ -2,8 +2,8 @@ ReverseBeam Team
 ============================================
 
 **[UNDETECTED] When you take your crosshair to the man, it shoots at the enemy in 6ms.**
-## Download and Using 
-### Need To
+
+## ⚙ How to Setup
 - Download Python latest version (found above)
 - Run BlastCheats.exe as administrator and click REGISTER if you haven't registered before.
 - Click on the user name and password, make a login in the register section.
