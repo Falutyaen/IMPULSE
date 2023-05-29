@@ -1,7 +1,7 @@
 ReverseBeam Team 
 ============================================
 
-**[UNDETECTED]When you take your crosshair to the man, it shoots at the enemy in 6ms.**
+**[UNDETECTED] When you take your crosshair to the man, it shoots at the enemy in 6ms.**
 ## Download and Using 
 ### Need To
 - Download Python latest version
