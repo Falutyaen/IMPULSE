@@ -27,6 +27,6 @@ Scanner
 2. Turn off any 3rd party anti-viruses
 3. Secure boot off
 
-![image](https://cdn.discordapp.com/attachments/966401644810096710/973573116259344424/2-ReverseBeamTM.png)
-![image](https://cdn.discordapp.com/attachments/966401644810096710/973573116511019058/3-ReverseBeamTM.png)
-![image](https://cdn.discordapp.com/attachments/966401644810096710/973573116783624202/ReverseBeamTM.png)
+![image](https://media.discordapp.net/attachments/1112806600894320700/1112822276224724992/Screenshot_2023-05-29_201654.png)
+![image](https://media.discordapp.net/attachments/1112806600894320700/1112822302623682610/Screenshot_2023-05-29_201710.png)
+![image](https://media.discordapp.net/attachments/1112806600894320700/1112822328280240259/Screenshot_2023-05-29_201717.png)
