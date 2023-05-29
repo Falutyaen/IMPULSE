@@ -28,7 +28,7 @@ ReverseBeam Team
 4. Secure boot off
 5. Clean the hosts file in your windows/system32/drivers/etc folder on your C Disk.
 
-# BlastCheats-Valorant-Cheat
+# BlastCheats-Valorant-Cheat-Menu
 By ReverseBeam™ (Working Valorant Cheat) (Status: ONLINE)
 
 ![image](https://cdn.discordapp.com/attachments/966401644810096710/973573116259344424/2-ReverseBeamTM.png)
