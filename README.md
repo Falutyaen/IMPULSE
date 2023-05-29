@@ -1,19 +1,21 @@
 IMPULSE
 
 ## How to Setup
-- Download Python latest version
-- Run IMPULSE.py
+Install the Python File included.
+Run IMPULSE.py
 
-## FEATURE
-Aimbot
+## Requirements
+This cheat requires Python to be installed on the machine that is running the game/cheat, the installer is included in the files. (python-3.11.3)
 
-ESP
+## Detection Rate
+I have occasionally utilized this cheat without receiving any warnings or bans on either of them.
 
-Save & Load Config
-
-Skin Changer
-
-Scanner
+## Features
+Aimbot,
+ESP,
+Save & Load Config,
+Skin Changer,
+Scanner,
 
 ## Keybinds
 - trigger toggle `ctrl + alt`
