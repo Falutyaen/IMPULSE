@@ -2,7 +2,7 @@ IMPULSE
 
 ## How to Setup
 - Download Python latest version
-- Run BlastCheats.py
+- Run IMPULSE.py
 
 ## FEATURE
 Aimbot
