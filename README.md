@@ -1,7 +1,8 @@
 IMPULSE
 
 ## How to Setup
-Install the Python File included.
+Install the Python File included
+
 Run IMPULSE.py
 
 ## Requirements
